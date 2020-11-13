@@ -1,14 +1,14 @@
 // swift-tools-version:5.3
 import PackageDescription
 let package = Package(
-    name: "vyouSDK",
+    name: "TestSDKFramework",
     platforms: [
         .iOS(.v13)
     ],
     products: [
         .library(
-            name: "vyouSDK",
-            targets: ["vyouSDK"])
+            name: "TestSDKFramework",
+            targets: ["TestSDKFramework"])
     ],
     dependencies: [
         .package(
@@ -18,7 +18,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "vyouSDK",
-            path: "vyouSDK.xcframework")
+            name: "TestSDKFramework",
+            path: "TestSDKFramework.xcframework")
     ])
 

@@ -1,0 +1,11 @@
+framework module TestSDKFramework {
+  umbrella header "TestSDKFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module TestSDKFramework.Swift {
+    header "TestSDKFramework-Swift.h"
+    requires objc
+}
