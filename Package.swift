@@ -10,12 +10,12 @@ let package = Package(
             name: "vyouSDK",
             targets: ["vyouSDK"])
     ],
-//    dependencies: [
-//        .package(
-//            url: "https://github.com/facebook/facebook-ios-sdk",
-//            from: "8.1.0"
-//        )
-//    ],
+    dependencies: [
+        .package(
+            url: "https://github.com/facebook/facebook-ios-sdk",
+            from: "8.1.0"
+        )
+    ],
     targets: [
         .binaryTarget(
             name: "vyouSDK",
