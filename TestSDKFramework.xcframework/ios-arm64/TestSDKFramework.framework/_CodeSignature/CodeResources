@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestSDKFramework-Swift.h</key>
 		<data>
-		42I4/ugvxY/hGyqtyZ/tzlKuVa8=
+		DuAbFpuo4ykabo5Fi3dkq3RnxGk=
 		</data>
 		<key>Headers/TestSDKFramework.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		R2pV4KDAshjgjAOtVthFANvlyEQ=
+		anEpiEsZCUnfrun5brUI4u4fM6w=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		23f+itlSzVnq/k+u0i4Ng4fgVsk=
+		ZU3gD/Prrnmzf5OXJjS6jSTy904=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		z2vYj8lU4VqP1SNMgARWhIyP9/k=
+		4VSKjI5UP0leO9kGtwKYZSEThvI=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		lMlmB1gg5b7faxLU25DqFUYrIgg=
+		RLXTpMVvx5mFLvviqep/hCjQyzU=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		23f+itlSzVnq/k+u0i4Ng4fgVsk=
+		ZU3gD/Prrnmzf5OXJjS6jSTy904=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		z2vYj8lU4VqP1SNMgARWhIyP9/k=
+		4VSKjI5UP0leO9kGtwKYZSEThvI=
 		</data>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		lMlmB1gg5b7faxLU25DqFUYrIgg=
+		RLXTpMVvx5mFLvviqep/hCjQyzU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Qdx8KBOlWPQ36pyWlkm/2a2WXVjbZuIfGSAOQbpbAw=
+			JmcJFRmenaOpX+8jXl3pj2FXOx5WAmE3M9+aOraUJNY=
 			</data>
 		</dict>
 		<key>Headers/TestSDKFramework.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SEKmZCTcw8h8QqEx3062pDifSHLShPl4w3SjZeimCOc=
+			tjgKkD45+XULG+wtnFMrcCp/xN4a+si7ovVr4ZibTos=
 			</data>
 		</dict>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b8EVSsxW2c+1iiYC6RmV6YWk/9vbfBusMmpB53BuIqs=
+			v/Rsdv1I1snGKenh4eicfNh5gaD9SXvhhsHAxkESlx4=
 			</data>
 		</dict>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HJCElWQelZomAlcQzTBVBmhBin2vZMss2BZw5jCU90k=
+			BoshD5K/98o5FmKuysBWKm6QT5PaXxZKuv8UoKyV6uM=
 			</data>
 		</dict>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SEKmZCTcw8h8QqEx3062pDifSHLShPl4w3SjZeimCOc=
+			tjgKkD45+XULG+wtnFMrcCp/xN4a+si7ovVr4ZibTos=
 			</data>
 		</dict>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b8EVSsxW2c+1iiYC6RmV6YWk/9vbfBusMmpB53BuIqs=
+			v/Rsdv1I1snGKenh4eicfNh5gaD9SXvhhsHAxkESlx4=
 			</data>
 		</dict>
 		<key>Modules/TestSDKFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HJCElWQelZomAlcQzTBVBmhBin2vZMss2BZw5jCU90k=
+			BoshD5K/98o5FmKuysBWKm6QT5PaXxZKuv8UoKyV6uM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
